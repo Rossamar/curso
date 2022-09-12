@@ -1,0 +1,10 @@
+cuarto.txt
+final.txt
+folder1
+folder1/practice1.txt
+folder1/practice2.txt
+folder1/abc.txt
+mmm.txt
+primero.txt
+segundo.txt
+tercero.txt
