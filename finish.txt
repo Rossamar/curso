@@ -1,0 +1,9 @@
+* ed9a15b (HEAD -> master, origin/master) redirigiendo a archivo acabado.txt
+* 6bdc9df copiando archivo final.txt
+*   01606b5 Merge pull request #1 from Rossamar/rama1
+|\  
+| * f9a20b9 (origin/rama1, rama1) subiendo archivo cuarto.txt
+| * 6ae22c4 subiendo archivo tercero
+|/  
+* 9c4cf28 subiendo carpeta
+* 95a95dc subiendo primeros archivos
